@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deepak Mishra
-tagline: Frontend Developer, UI Developer, Freelance web development, web design, graphic design!
+tagline: Frontend Developer, UI Developer
 ---
 {% include JB/setup %}
 <article class="posts">
