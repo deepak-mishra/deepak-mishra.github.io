@@ -10,7 +10,7 @@ body{font:14px/26px 'Droid Sans',Helvetica,Arial,sans-serif;color:#4C4C4C;backgr
 .logo{background:-moz-linear-gradient(top, rgba(86, 165, 210, 0.68) 0%, #4389ae 80%, #4389ae 97%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(86, 165, 210, 0.68)), color-stop(80%, #4389ae), color-stop(97%, #4389ae));background:-webkit-linear-gradient(top, rgba(86, 165, 210, 0.68) 0%, #4389ae 80%, #4389ae 97%);background:-o-linear-gradient(top, rgba(86, 165, 210, 0.68) 0%, #4389ae 80%, #4389ae 97%);background:-ms-linear-gradient(top, rgba(86, 165, 210, 0.68) 0%, #4389ae 80%, #4389ae 97%);background:linear-gradient(to bottom, rgba(86, 165, 210, 0.68) 0%, #4389ae 80%, #4389ae 97%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ad56a5d2', endColorstr='#4389ae', GradientType=0);border:8px solid #D3E6ED;padding:10px;border-radius:0px 60px 0px 60px;box-shadow:0 3px 10px rgba(0, 0, 0, 0.15);width:88px;min-height:100px;margin:15% auto 0 auto;}.logo:hover{border:8px solid #88C34B;}
 #header{background:url("../images/header-bg.png") 0 5px repeat-x #1d1e1d;left:0;position:fixed;right:0;top:0;height:45px;z-index:9999;box-shadow:0 2px 3px rgba(0, 0, 0, 0.2);}#header .nav{margin:0 auto;width:980px;}#header .nav .logo-small{float:left;width:80px;}
 #header .nav .logo-small:hover{text-decoration:none;border-bottom:0px;}
-#header .nav ul{padding:0;margin:4px 0 0;}
+#header .nav ul{padding:0;margin:7px 0 0;}
 #header .nav ul li{float:left;list-style:none;margin-right:3em;position:relative;}#header .nav ul li a{color:#4F504F;text-decoration:none;font-size:1em;}
 #header .nav ul li a:hover,#header .nav ul li a:focus{border-bottom:1px solid #7AC000;color:#7AC000;padding-bottom:1px;}
 #header .nav ul li.active a{color:#7AC000;}
