@@ -2,7 +2,7 @@
 layout: post
 category : javascript
 tagline: "jQuery tips"
-tags : [jQuery, tutorial]
+tags : [jQuery]
 ---
 {% include JB/setup %}
 ## Check if jQuery is Loaded
